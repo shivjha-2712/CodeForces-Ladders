@@ -10,7 +10,7 @@
 | 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 700 | ✔ |
 | 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 700 | ❌ |
 | 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 | ❗⚠ |
-| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 |  |
+| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 | ✔ |
 | 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
 | 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
